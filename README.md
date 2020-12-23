@@ -1,5 +1,5 @@
 # docker-wordpress
-
+```
 version: '3' -> docker compose version (required)
 
 services: (required)
@@ -30,7 +30,7 @@ services: (required)
 volumes: -> data on container will be delete you delete container, so use "volumes" to save data (optional) 
 	wordpress:
 	db:
-
+```
 
 # command
 
